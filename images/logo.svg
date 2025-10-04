@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-label="G logo">
+  <defs>
+    <linearGradient id="rg" x1="0" x2="1">
+      <stop offset="0" stop-color="#e50914"></stop>
+      <stop offset="1" stop-color="#b1060f"></stop>
+    </linearGradient>
+  </defs>
+  <polygon points="32,2 60,18 60,46 32,62 4,46 4,18" fill="url(#rg)" stroke="#000" stroke-width="3"></polygon>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Poppins, Inter, Arial, sans-serif" font-weight="800" font-size="34" fill="#fff">G</text>
+</svg>
